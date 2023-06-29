@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;Mqtt_App/Release&apos;" deleteContents="false" description="Delete resource &apos;Mqtt_App/Release&apos;" element1="/Mqtt_App/Release" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1687603708810"/>&#x0A;<refactoring comment="Delete resource &apos;Mqtt_App/Release&apos;" deleteContents="false" description="Delete resource &apos;Mqtt_App/Release&apos;" element1="/Mqtt_App/Release" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1687604902712"/>
+</session>

@@ -1,0 +1,3 @@
+MQTT.c:19:6:MQTT_Connect	32	static
+MQTT.c:46:6:MQTT_Publish	32	static
+MQTT.c:79:6:MQTT_Subscribe	16	static
